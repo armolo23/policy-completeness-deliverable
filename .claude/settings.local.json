@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(python:*)",
+      "Bash(start webproduct_view.html)",
+      "Bash(start \"\" \"c:\\Users\\armon\\Projects\\agentic-eval-challenge\\policy-completeness-framework_vJupiter\\policy-completeness-deliverable\\web\\product_view.html\")",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

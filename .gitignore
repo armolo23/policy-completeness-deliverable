@@ -1,0 +1,10 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
+
+# Results
+test_results.json
